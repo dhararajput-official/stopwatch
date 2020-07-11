@@ -1,7 +1,7 @@
 body {
     background-color: blueviolet;
     text-align: center;
-    clip-path: polygon(100% 0% , 100% 5% , 50% 100% , 0 5% , 0 0 );
+    clip-path: polygon(100% 0% , 100% 75% , 50% 100% , 0 75% , 0 0 );
 }
 
 h2,
